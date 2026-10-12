@@ -1,0 +1,10 @@
+## Deployment
+
+This project is delivered as a Power BI Desktop report (`sales_dashboard.pbix`). It is not deployed as a hosted web application.
+
+To view the dashboard:
+
+1. Install Power BI Desktop.
+2. Download `sales_dashboard.pbix` from this repository.
+3. Open the file in Power BI Desktop.
+4. If prompted, reconnect the report to the Global Superstore dataset and refresh the data.
