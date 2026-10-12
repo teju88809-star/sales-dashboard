@@ -1,0 +1,7 @@
+## Requirements
+
+- Power BI Desktop to open and interact with the `.pbix` dashboard
+- The Global Superstore dataset used as the dashboard’s data source
+- A PDF reader to view `Sales_Dashboard_Guide.pdf`
+
+The dashboard includes KPI cards for total sales, total profit, and quantity sold; charts showing sales by month, region, and product category; and Month and Region slicers.
