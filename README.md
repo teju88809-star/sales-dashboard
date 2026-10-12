@@ -29,4 +29,3 @@ The dashboard uses the Global Superstore dataset. The dataset is not included in
 ## Notes
 
 This project was created for learning and portfolio purposes.
-Rollback practice change
